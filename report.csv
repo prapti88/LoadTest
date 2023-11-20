@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1700481871228,1495,HTTP Request,200,OK,Thread Group 1-1,text,true,,75775,116,5,5,https://www.shohoz.com/,1465,0,895
+1700481871836,894,HTTP Request,200,OK,Thread Group 1-3,text,true,,75775,116,5,5,https://www.shohoz.com/,857,0,287
+1700481871439,1344,HTTP Request,200,OK,Thread Group 1-2,text,true,,75767,116,3,3,https://www.shohoz.com/,1285,0,684
+1700481872233,692,HTTP Request,200,OK,Thread Group 1-4,text,true,,75777,116,2,2,https://www.shohoz.com/,639,0,124
+1700481872636,807,HTTP Request,200,OK,Thread Group 1-5,text,true,,75767,116,3,3,https://www.shohoz.com/,747,0,119
+1700481873033,710,HTTP Request,200,OK,Thread Group 1-6,text,true,,75775,116,2,2,https://www.shohoz.com/,655,0,127
+1700481873430,685,HTTP Request,200,OK,Thread Group 1-7,text,true,,75773,116,2,2,https://www.shohoz.com/,628,0,120
+1700481873834,758,HTTP Request,200,OK,Thread Group 1-8,text,true,,75771,116,2,2,https://www.shohoz.com/,699,0,118
+1700481874233,703,HTTP Request,200,OK,Thread Group 1-9,text,true,,75771,116,2,2,https://www.shohoz.com/,648,0,117
+1700481874633,855,HTTP Request,200,OK,Thread Group 1-10,text,true,,75775,116,1,1,https://www.shohoz.com/,798,0,136
